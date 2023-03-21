@@ -27,3 +27,11 @@ and other blocks as shown in Fig.4. The ultrasonic sensor will continually read 
 it to the PID controller which will try to minimize the error by turning the servo motor.
 
 ![My Image](Picture3.png)
+
+### Final Design and Results
+
+
+
+
+
+![My Image](Screenshot 2023-03-21 170319.png)
