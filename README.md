@@ -34,4 +34,4 @@ it to the PID controller which will try to minimize the error by turning the ser
 
 
 
-![My Image](Screenshot 2023-03-21 170319.png)
+![My Image](Picture4.png)
